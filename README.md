@@ -1,5 +1,5 @@
 # project2
-The John Siavash Public Health firm has the mission to promote healthy lifestyles in the United States. Jisu, Kyle, Wendell, Nguyen, and Don'Yelle are employees assigned to a task force reviewing the Body Mass Index (BMI), Caloric Intake, and Physical Activity. The task force has pulled global data information for the countries: Niger, the Central African Republic, Congo, and the United States.  
+The John Siavash Public Health firm has the mission to promote healthy lifestyles in the United States. Jisu, Wendell, Nguyen, and Don'Yelle are employees assigned to a task force reviewing the Body Mass Index (BMI), Caloric Intake, and Physical Activity. The task force has pulled global data information for the countries: Niger, the Central African Republic, Congo, and the United States.  
 
 Body Mass Index is a person's weight in kilograms (or pounds) divided by the square of height in meters (or feet). A high BMI can indicate high body fat. BMI screens for weight categories that may lead to health problems, but it does not diagnose an individual's body fatness or health.
 
